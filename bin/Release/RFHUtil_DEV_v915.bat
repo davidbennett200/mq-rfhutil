@@ -1,2 +1,2 @@
-SET MQSERVER=T0MBRKS1_APP1.SVRCON/TCP/pbyiibdev(1414)
-START /D "C:\Users\benne8\OneDrive\Dave's Documents\GitHub\mq-rfhutil\bin\Release" /B /MAX rfhutilc.exe T0MBRKS1_APP1.SVRCON/TCP/pbyiibdev(1414) PBL.T0MBRKS1.SHOPX.ERRORS
+SET MQSERVER=T0MBRKS1_APP1.SVRCON/TCP/172.21.13.60(1414)
+START /D "C:\Users\benne8\OneDrive\Dave's Documents\GitHub\mq-rfhutil\bin\Release" /B /MAX rfhutilc.exe T0MBRKS1_APP1.SVRCON/TCP/172.21.13.60(1414) PBL.T0MBRKS1.SHOPX.ERRORS
